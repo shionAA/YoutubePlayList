@@ -3,9 +3,9 @@
 from apiclient.discovery import build
 
 #取得したAPIキー
-API_KEY = "AIzaSyDSrWaTNNRovxW8ZCdZ1fHgz5cN7pGjSus"
+API_KEY = ""
 #対象のプレイリストID
-PLAYLIST = "PLg9aIQcFDtaiCto6WAWy0v0mj-IZUOT8l"
+PLAYLIST = ""
 #動画数（1～50を指定可能）
 MAX_RESULT = 50
 
